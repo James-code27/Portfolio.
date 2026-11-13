@@ -1301,7 +1301,7 @@ html {
 
 @media screen and (width <=600px) {
     .skills {
-        height: 180dvh;
+        height: 230dvh;
 
         h3 {
             font-size: 30px;
@@ -1324,7 +1324,7 @@ html {
     }
 
     .tech-marquee {
-        margin-top: 630px;
+        margin-top: 730px;
     }
 }
 
@@ -1711,7 +1711,8 @@ html {
 
 @media screen and (width <=600px) {
     .project {
-        height: 290dvh;
+        height: 350dvh;
+        width: 100%;
 
         h2 {
             font-size: 30px;
@@ -2101,7 +2102,7 @@ a {
 
 @media screen and (width <=600px) {
     .contact {
-        height: 130dvh;
+        height: 150dvh;
     }
 
     .contact-h2 {
@@ -2118,7 +2119,7 @@ a {
             border: 1px solid rgba(255, 255, 255, 0);
             background-color: rgba(128, 128, 128, 0.507);
             padding: 10px 0px;
-            margin-top: -20px;
+            margin-top: -50px;
             font-size: 15px;
         }
     }
